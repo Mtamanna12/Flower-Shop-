@@ -192,14 +192,41 @@
   }
 .third-p{
     padding-top: 150px;
+    padding-left: 200px;
+    padding-right: 250px;
+    font-size: 20px;
 
 }
 .third{
     display: flex;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
+    text-align: center;
+    margin-top: 150px;
+    width: 1922px;
+    height: 500px;
 }
 .third-i{
     width: 318px;
     height: 420px;
+    padding-top: 50px;
+}
+#pink{
+    color: #E55473;
+}
+#p2{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+}
+#p3{
+    width: 594px;
+    padding-left: 663px;
+    padding-left: 663px;
+    text-align: center;
+}
+.instagram{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    justify-content: space-between;
 }
