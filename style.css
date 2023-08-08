@@ -1,6 +1,5 @@
 .heading{
     color: #272727;
-    font-family: Lato;
     font-size: 80px;
     font-style: normal;
     font-weight: 800;
@@ -18,7 +17,6 @@
 }
 .first-p{
     color: rgba(39, 39, 39, 0.60);
-    font-family: Lato;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -42,7 +40,6 @@
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
-    font-family: Lato;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -57,12 +54,10 @@
     height: 449px;
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
-    font-family: Lato;
     font-size: 16px;
 }
 .footer-p{
     color: #E55473;
-    font-family: Lato;
     font-size: 48px;
     font-style: normal;
     font-weight: 800;
@@ -74,7 +69,6 @@
 }
 #White{
     color: #FFF;
-    font-family: Lato;
     font-size: 48px;
     font-style: normal;
     font-weight: 800;
@@ -83,7 +77,6 @@
 .para{
     color: white;
     text-align: center;
-    font-family: Lato;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -94,7 +87,6 @@
   .heading2 {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 40px;
     padding-top: 122px;
   }
@@ -104,8 +96,9 @@
     height: 449px;
     border-radius: 8px;
     background: url('Flower Asset/Rectangle\ 9.png'), lightgray 0px -203.444px / 100% 213.755%;
-    background-repeat: none;
-    padding-left: 240px;
+    background-repeat: no-repeat;
+    margin-left: 250px;
+    margin-right: 250px;
   }
   
   #email{
@@ -115,5 +108,98 @@
   .styled-form{
     padding-left: 287px;
   }
+.h2{
+    color: #272727;
+    padding-left: 850px;
+    font-size: 40px;
+    padding-top: 100px;
+}
+.p1{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    width: 594px;
+    padding-left: 740px;
+    padding-right: 663px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.image-container {
+    display: flex;
+    margin-left: 30px;
+    margin-right: 200px;
+    padding-bottom: 240px;
+  }
   
+  .colored-bg {
+    display: flex;
+    margin: 0 20px;
+    width: 464px;
+    height: 538px;
+    padding-top: 110px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .bg-pink {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+  }
   
+  .bg-blue {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+  }
+  
+  .bg-ash {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+  }
+  .text {
+    list-style-type: none;
+    padding: 0;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+  }
+  .second{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1440px;
+    height: 160px;
+    margin-left: 270px;
+    display: flex;
+    padding-bottom: 87px;
+    padding-top: 100px;
+  }
+  #logo1{
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+  }
+  #logo2{
+    text-align: center;
+    padding-right: 200px;
+  }
+  #logo3{
+    padding-right: 200px;
+    text-align: center;
+  }
+  .second-p{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+  }
+.third-p{
+    padding-top: 150px;
+
+}
+.third{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.third-i{
+    width: 318px;
+    height: 420px;
+}
